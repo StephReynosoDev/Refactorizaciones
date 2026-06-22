@@ -1,0 +1,33 @@
+{
+    "hosts": [
+        {
+            "domain": "python.org",
+            "ports": [
+                80,
+                443
+            ]
+        },
+        {
+            "domain": "github.com",
+            "ports": [
+                80,
+                443,
+                22
+            ]
+        },
+        {
+            "domain": "google.com",
+            "ports": [
+                443
+            ]
+        },
+        {
+            "domain": "localhost",
+            "ports": [
+                8080,
+                3306
+            ]
+        }
+    ],
+    "timeout": 2.5
+}
