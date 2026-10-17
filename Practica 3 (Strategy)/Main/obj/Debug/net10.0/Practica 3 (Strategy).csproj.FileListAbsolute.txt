@@ -1,0 +1,14 @@
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\bin\Debug\net10.0\Practica 3 (Strategy).exe
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\bin\Debug\net10.0\Practica 3 (Strategy).deps.json
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\bin\Debug\net10.0\Practica 3 (Strategy).runtimeconfig.json
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\bin\Debug\net10.0\Practica 3 (Strategy).dll
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\bin\Debug\net10.0\Practica 3 (Strategy).pdb
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\Practica 3 (Strategy).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\Practica 3 (Strategy).AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\Practica 3 (Strategy).AssemblyInfo.cs
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\Practica 3 (Strategy).csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\Practica 3 (Strategy).dll
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\refint\Practica 3 (Strategy).dll
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\Practica 3 (Strategy).pdb
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\Practica 3 (Strategy).genruntimeconfig.cache
+C:\Users\steph\Desktop\Practica 3 (Strategy)\Main\obj\Debug\net10.0\ref\Practica 3 (Strategy).dll
