@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "779cfa7a-a6c7-496f-b647-9fc38bbfeb84",
+    "Titulo": "Terminar tarea de la universidad",
+    "Descripcion": "Completar la API",
+    "FechaCreacion": "2026-08-09T21:47:30.2971969-04:00",
+    "FechaLimite": "2026-12-31T23:59:59Z",
+    "Estado": 0
+  },
+  {
+    "Id": "91adbdf9-86f8-4d6e-88f9-07ee2d71aa30",
+    "Titulo": "Terminar tarea de la universidad",
+    "Descripcion": "Completar la API",
+    "FechaCreacion": "2026-08-09T21:54:28.8362312-04:00",
+    "FechaLimite": "2026-12-31T23:59:59Z",
+    "Estado": 0
+  }
+]

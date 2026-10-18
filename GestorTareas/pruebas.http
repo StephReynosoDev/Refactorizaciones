@@ -1,0 +1,196 @@
+@hostname = http://localhost:5036
+@apiKey = PII-2026
+@invalidApiKey = INVALID-KEY
+@taskId = 779cfa7a-a6c7-496f-b647-9fc38bbfeb84
+@notFoundId = 99999999-9999-9999-9999-999999999999
+
+### ==========================================
+### 0. CONTROL DE ACCESO
+### ==========================================
+
+### Error 401: Sin cabecera X-Api-Key
+GET {{hostname}}/tasks
+
+###
+
+### Error 401: Key invalida
+GET {{hostname}}/tasks
+X-Api-Key: {{invalidApiKey}}
+
+###
+
+### ==========================================
+### 1. ESTADO DEL SERVICIO
+### ==========================================
+
+### Exito 200
+GET {{hostname}}/health
+
+###
+
+### ==========================================
+### 2. CREAR TAREA (POST /tasks)
+### ==========================================
+
+### Exito 201
+POST {{hostname}}/tasks
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "Titulo": "Terminar tarea de la universidad",
+  "Descripcion": "Completar la API",
+  "FechaLimite": "2026-12-31T23:59:59Z"
+}
+
+###
+
+### Error 400: Titulo vacio
+POST {{hostname}}/tasks
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "Titulo": "",
+  "Descripcion": "Esta tarea fallara",
+  "FechaLimite": "2026-12-31T23:59:59Z"
+}
+
+###
+
+### Error 400: Fecha limite en el pasado
+POST {{hostname}}/tasks
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "Titulo": "Fecha pasada",
+  "Descripcion": "Esta tarea fallara",
+  "FechaLimite": "2020-01-01T00:00:00Z"
+}
+
+###
+
+### ==========================================
+### 3. LISTAR TAREAS (GET /tasks)
+### ==========================================
+
+### Exito 200: Todas las tareas
+GET {{hostname}}/tasks
+X-Api-Key: {{apiKey}}
+
+###
+
+### Exito 200: Filtro pendiente
+GET {{hostname}}/tasks?estado=pendiente
+X-Api-Key: {{apiKey}}
+
+###
+
+### Exito 200: Filtro completada
+GET {{hostname}}/tasks?estado=completada
+X-Api-Key: {{apiKey}}
+
+###
+
+### Error 400: Estado no reconocido
+GET {{hostname}}/tasks?estado=en_progreso
+X-Api-Key: {{apiKey}}
+
+###
+
+### ==========================================
+### 4. OBTENER POR ID (GET /tasks/{id})
+### ==========================================
+
+### Exito 200
+GET {{hostname}}/tasks/{{taskId}}
+X-Api-Key: {{apiKey}}
+
+###
+
+### Error 404
+GET {{hostname}}/tasks/{{notFoundId}}
+X-Api-Key: {{apiKey}}
+
+###
+
+### ==========================================
+### 5. ACTUALIZAR (PUT /tasks/{id})
+### ==========================================
+
+### Exito 200
+PUT {{hostname}}/tasks/{{taskId}}
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "Titulo": "Titulo actualizado",
+  "Descripcion": "Descripcion actualizada",
+  "FechaLimite": "2026-11-30T23:59:59Z"
+}
+
+###
+
+### Error 404
+PUT {{hostname}}/tasks/{{notFoundId}}
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "Titulo": "No existo",
+  "Descripcion": "Nada",
+  "FechaLimite": "2026-12-31T23:59:59Z"
+}
+
+###
+
+### Error 400: Intentar cambiar FechaCreacion
+PUT {{hostname}}/tasks/{{taskId}}
+X-Api-Key: {{apiKey}}
+Content-Type: application/json
+
+{
+  "Titulo": "Hackeando",
+  "Descripcion": "Intentando cambiar fecha",
+  "FechaLimite": "2026-12-31T23:59:59Z",
+  "FechaCreacion": "2000-01-01T00:00:00Z"
+}
+
+###
+
+### ==========================================
+### 6. COMPLETAR TAREA (PATCH /tasks/{id}/complete)
+### ==========================================
+
+### Exito 200
+PATCH {{hostname}}/tasks/{{taskId}}/complete
+X-Api-Key: {{apiKey}}
+
+###
+
+### Error 409: Tarea ya completada
+PATCH {{hostname}}/tasks/{{taskId}}/complete
+X-Api-Key: {{apiKey}}
+
+###
+
+### Error 404
+PATCH {{hostname}}/tasks/{{notFoundId}}/complete
+X-Api-Key: {{apiKey}}
+
+###
+
+### ==========================================
+### 7. ELIMINAR (DELETE /tasks/{id})
+### ==========================================
+
+### Exito 204
+DELETE {{hostname}}/tasks/{{taskId}}
+X-Api-Key: {{apiKey}}
+
+###
+
+### Error 404
+DELETE {{hostname}}/tasks/{{notFoundId}}
+X-Api-Key: {{apiKey}}
