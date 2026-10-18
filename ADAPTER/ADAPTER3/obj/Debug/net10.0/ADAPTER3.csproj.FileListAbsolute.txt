@@ -1,0 +1,14 @@
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\bin\Debug\net10.0\ADAPTER3.exe
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\bin\Debug\net10.0\ADAPTER3.deps.json
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\bin\Debug\net10.0\ADAPTER3.runtimeconfig.json
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\bin\Debug\net10.0\ADAPTER3.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\bin\Debug\net10.0\ADAPTER3.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ADAPTER3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ADAPTER3.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ADAPTER3.AssemblyInfo.cs
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ADAPTER3.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ADAPTER3.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\refint\ADAPTER3.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ADAPTER3.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ADAPTER3.genruntimeconfig.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER3\obj\Debug\net10.0\ref\ADAPTER3.dll

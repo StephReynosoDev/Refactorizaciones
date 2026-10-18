@@ -1,0 +1,14 @@
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\Grupo1_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\Grupo1_Inventario.AssemblyInfoInputs.cache
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\Grupo1_Inventario.AssemblyInfo.cs
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\Grupo1_Inventario.csproj.CoreCompileInputs.cache
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net8.0\Grupo1_Inventario.exe
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net8.0\Grupo1_Inventario.deps.json
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net8.0\Grupo1_Inventario.runtimeconfig.json
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net8.0\Grupo1_Inventario.dll
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net8.0\Grupo1_Inventario.pdb
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\Grupo1_Inventario.dll
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\refint\Grupo1_Inventario.dll
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\Grupo1_Inventario.pdb
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\Grupo1_Inventario.genruntimeconfig.cache
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net8.0\ref\Grupo1_Inventario.dll

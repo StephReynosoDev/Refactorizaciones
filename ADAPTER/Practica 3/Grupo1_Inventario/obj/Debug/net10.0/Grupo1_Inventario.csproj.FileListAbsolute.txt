@@ -1,0 +1,28 @@
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.exe
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.deps.json
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.runtimeconfig.json
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.dll
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.pdb
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.AssemblyInfoInputs.cache
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.AssemblyInfo.cs
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.csproj.CoreCompileInputs.cache
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.dll
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\refint\Grupo1_Inventario.dll
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.pdb
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.genruntimeconfig.cache
+C:\Formacion\PII\AdapterMotor (1)\Grupo1_Inventario\obj\Debug\net10.0\ref\Grupo1_Inventario.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.exe
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.deps.json
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.runtimeconfig.json
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\bin\Debug\net10.0\Grupo1_Inventario.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.AssemblyInfo.cs
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\refint\Grupo1_Inventario.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\Grupo1_Inventario.genruntimeconfig.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\Practica 3\Grupo1_Inventario\obj\Debug\net10.0\ref\Grupo1_Inventario.dll

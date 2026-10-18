@@ -1,0 +1,28 @@
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\bin\Debug\net10.0\GeneradorReportes.exe
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\bin\Debug\net10.0\GeneradorReportes.deps.json
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\bin\Debug\net10.0\GeneradorReportes.runtimeconfig.json
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\bin\Debug\net10.0\GeneradorReportes.dll
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\bin\Debug\net10.0\GeneradorReportes.pdb
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\GeneradorReportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\GeneradorReportes.AssemblyInfoInputs.cache
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\GeneradorReportes.AssemblyInfo.cs
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\GeneradorReportes.csproj.CoreCompileInputs.cache
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\GeneradorReportes.dll
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\refint\GeneradorReportes.dll
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\GeneradorReportes.pdb
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\GeneradorReportes.genruntimeconfig.cache
+C:\Formacion\PII\Adapter-Ejercicio-Guiado\GeneradorReportes\obj\Debug\net10.0\ref\GeneradorReportes.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\GeneradorReportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\GeneradorReportes.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\GeneradorReportes.AssemblyInfo.cs
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\GeneradorReportes.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\GeneradorReportes.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\refint\GeneradorReportes.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\GeneradorReportes.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\bin\Debug\net10.0\GeneradorReportes.exe
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\bin\Debug\net10.0\GeneradorReportes.deps.json
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\bin\Debug\net10.0\GeneradorReportes.runtimeconfig.json
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\bin\Debug\net10.0\GeneradorReportes.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\bin\Debug\net10.0\GeneradorReportes.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\GeneradorReportes.genruntimeconfig.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\ADAPTER\ADAPTER1\obj\Debug\net10.0\ref\GeneradorReportes.dll
