@@ -1,0 +1,6 @@
+@APILANDO_HostAddress = http://localhost:5157
+
+GET {{APILANDO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
