@@ -1,0 +1,14 @@
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\CodigoARefactorizar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\CodigoARefactorizar.AssemblyInfoInputs.cache
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\CodigoARefactorizar.AssemblyInfo.cs
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\CodigoARefactorizar.csproj.CoreCompileInputs.cache
+C:\Formacion\PII\Factory\CodigoARefactorizar\bin\Debug\net10.0\CodigoARefactorizar.exe
+C:\Formacion\PII\Factory\CodigoARefactorizar\bin\Debug\net10.0\CodigoARefactorizar.deps.json
+C:\Formacion\PII\Factory\CodigoARefactorizar\bin\Debug\net10.0\CodigoARefactorizar.runtimeconfig.json
+C:\Formacion\PII\Factory\CodigoARefactorizar\bin\Debug\net10.0\CodigoARefactorizar.dll
+C:\Formacion\PII\Factory\CodigoARefactorizar\bin\Debug\net10.0\CodigoARefactorizar.pdb
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\CodigoARefactorizar.dll
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\refint\CodigoARefactorizar.dll
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\CodigoARefactorizar.pdb
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\CodigoARefactorizar.genruntimeconfig.cache
+C:\Formacion\PII\Factory\CodigoARefactorizar\obj\Debug\net10.0\ref\CodigoARefactorizar.dll
