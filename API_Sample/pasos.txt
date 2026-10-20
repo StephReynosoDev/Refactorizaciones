@@ -1,0 +1,3 @@
+hasta ahora solo hemos seguidos una serie de pasos 
+ya que las buenas practicas nos dicen que la logica no va en el controller si n
+en el service.
