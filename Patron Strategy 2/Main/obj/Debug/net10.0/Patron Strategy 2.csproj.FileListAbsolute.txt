@@ -1,0 +1,24 @@
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.csproj.AssemblyReference.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.AssemblyInfo.cs
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\Patron Strategy 2.exe
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\Patron Strategy 2.deps.json
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\Patron Strategy 2.runtimeconfig.json
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\Patron Strategy 2.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\Patron Strategy 2.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\ClosedXML.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\ClosedXML.Parser.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\ExcelNumberFormat.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\RBush.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\SixLabors.Fonts.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\bin\Debug\net10.0\System.IO.Packaging.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron S.87B0AE9E.Up2Date
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\refint\Patron Strategy 2.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\Patron Strategy 2.genruntimeconfig.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\Patron Strategy 2\Main\obj\Debug\net10.0\ref\Patron Strategy 2.dll

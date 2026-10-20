@@ -1,7 +1,7 @@
 {
-  "MesesGarantia": Mesa, Cargador
-  "Accesorios": "2",
-  "Nombre": "LAPTOP",
-  "Precio": 1000,
+  "MesesGarantia": 2,
+  "Accesorios": "Mouse pad, Mesa Gamer",
+  "Nombre": "Mouse Gamer",
+  "Precio": 1200,
   "Tipo": 0
 }

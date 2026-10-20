@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2\\Practica 2.csproj": {}
+    "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2 Factory\\Practica 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2\\Practica 2.csproj": {
+    "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2 Factory\\Practica 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2\\Practica 2.csproj",
+        "projectUniqueName": "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2 Factory\\Practica 2.csproj",
         "projectName": "Practica 2",
-        "projectPath": "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2\\Practica 2.csproj",
+        "projectPath": "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2 Factory\\Practica 2.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2\\obj\\",
+        "outputPath": "C:\\Users\\steph\\Desktop\\PROGRAMACION 2\\Practica 2 Factory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"

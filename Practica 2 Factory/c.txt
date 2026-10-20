@@ -1,0 +1,96 @@
+ProductoFactory.cs — cambia la firma y agrega las preguntas dentro del switch:
+csharpnamespace Practica2
+{
+    public static class ProductoFactory
+    {
+        public static Productos CrearProducto(TipoProducto tipo, string nombre, decimal precio)
+        {
+            switch (tipo)
+            {
+                case TipoProducto.Electronico:
+                    Console.Write("Meses de garantia: ");
+                    int meses = int.Parse(Console.ReadLine()!);
+
+                    Console.Write("Accesorios (separados por coma): ");
+                    string accesorios = Console.ReadLine()!;
+
+                    return new ElectronicoProducto
+                    {
+                        Nombre = nombre, Precio = precio, Tipo = tipo,
+                        MesesGarantia = meses, Accesorios = accesorios
+                    };
+
+                case TipoProducto.Ropa:
+                    Console.Write("Tallas disponibles (separadas por coma): ");
+                    string tallas = Console.ReadLine()!;
+
+                    return new RopaProducto
+                    {
+                        Nombre = nombre, Precio = precio, Tipo = tipo, Tallas = tallas
+                    };
+
+                default:
+                    throw new ArgumentException("Tipo no valido.");
+            }
+        }
+    }
+}
+
+RopaProducto.cs — quita la constante, agrega propiedad Tallas:
+csharpnamespace Practica2
+{
+    public class RopaProducto : Productos
+    {
+        public string Tallas { get; set; }
+
+        public override void MostrarDetalles()
+        {
+            Console.WriteLine($"\nProducto registrado: {Nombre} (${Precio})");
+            Console.WriteLine($"Tallas disponibles: {Tallas}");
+        }
+    }
+}
+
+ElectronicoProducto.cs — quita el string.Join, Accesorios es string:
+csharpnamespace Practica2
+{
+    public class ElectronicoProducto : Productos
+    {
+        public int MesesGarantia { get; set; }
+        public string Accesorios { get; set; }
+
+        public override void MostrarDetalles()
+        {
+            Console.WriteLine($"\nProducto registrado: {Nombre} (${Precio})");
+            Console.WriteLine($"Garantia: {MesesGarantia} meses");
+            Console.WriteLine($"Accesorios: {Accesorios}");
+        }
+    }
+}
+
+GestorDatos.cs — cambia Serialize<object> por el tipo concreto:
+csharpusing System.Text.Json;
+namespace Practica2
+{
+    public static class GestorDatos
+    {
+        private const string NombreArchivoJson = "venta.json";
+
+        public static void GuardarHistorialEnDisco(Productos productoCreado)
+        {
+            try
+            {
+                var opcionesFormato = new JsonSerializerOptions { WriteIndented = true };
+                string stringTextoJson = JsonSerializer.Serialize(productoCreado, productoCreado.GetType(), opcionesFormato);
+                File.WriteAllText(NombreArchivoJson, stringTextoJson);
+                Console.WriteLine("Guardado en venta.json");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"\n[ERROR DE PERSISTENCIA]: No se pudo escribir el archivo: {ex.Message}");
+            }
+        }
+    }
+}
+
+Program.cs y el resto no los toques, ya estan bien.

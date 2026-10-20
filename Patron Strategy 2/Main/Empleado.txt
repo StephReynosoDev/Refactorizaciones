@@ -1,0 +1,4 @@
+Nombre: Stephen Reynoso Sanchez
+Salario: 250000
+Impuesto: 62500
+Tipo De Empleado: EmpleadoTiempoCompleto

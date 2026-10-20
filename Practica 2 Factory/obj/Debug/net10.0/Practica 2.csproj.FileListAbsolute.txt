@@ -12,3 +12,17 @@ C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2\obj\Debug\net10.0\refint\Practi
 C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2\obj\Debug\net10.0\Practica 2.pdb
 C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2\obj\Debug\net10.0\Practica 2.genruntimeconfig.cache
 C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2\obj\Debug\net10.0\ref\Practica 2.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\bin\Debug\net10.0\Practica 2.exe
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\bin\Debug\net10.0\Practica 2.deps.json
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\bin\Debug\net10.0\Practica 2.runtimeconfig.json
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\bin\Debug\net10.0\Practica 2.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\bin\Debug\net10.0\Practica 2.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\Practica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\Practica 2.AssemblyInfoInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\Practica 2.AssemblyInfo.cs
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\Practica 2.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\Practica 2.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\refint\Practica 2.dll
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\Practica 2.pdb
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\Practica 2.genruntimeconfig.cache
+C:\Users\steph\Desktop\PROGRAMACION 2\Practica 2 Factory\obj\Debug\net10.0\ref\Practica 2.dll
